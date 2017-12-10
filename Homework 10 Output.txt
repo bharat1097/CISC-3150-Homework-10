@@ -1,0 +1,28 @@
+EXECUTION 1:
+Files available to choose from: 
+
+Plugin1.class
+Plugin2.class
+
+Enter '1' to execute Plugin 1 or '2' to execute Plugin 2:
+1
+
+You chose Plugin 1
+
+Hello from Plugin 1!
+Bye from Plugin 1!
+
+
+EXECUTION 2:
+Files available to choose from: 
+
+Plugin1.class
+Plugin2.class
+
+Enter '1' to execute Plugin 1 or '2' to execute Plugin 2:
+2
+
+You chose Plugin 2
+
+Hello from Plugin 2!
+Bye from Plugin 2!
